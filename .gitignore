@@ -1,0 +1,19 @@
+# Eclipse IDE
+.metadata/
+.classpath
+.project
+*.launch
+
+# Java build output
+bin/
+target/
+
+# Maven
+.m2/
+
+# Logs
+*.log
+
+# OS files (Windows, macOS, etc.)
+Thumbs.db
+.DS_Store
