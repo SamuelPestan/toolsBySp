@@ -76,6 +76,6 @@ public class Main {
 }
 ```
 
-## Documentation
+## 📖 Documentation
 
-You can find the full API documentation [here](https://github.com/SamuelPestan/toolsBySp/tree/master/doc).
+You can view the full API documentation [here](https://SamuelPestan.github.io/toolsBySp/).
