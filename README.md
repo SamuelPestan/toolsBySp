@@ -12,7 +12,7 @@ ToolsBySp is a Java utility library designed to make common tasks easier for dev
 
 ## Installation
 
-To use this library in your Java project, you can download the compiled `.jar` file from the [Releases](https://github.com/YOUR_USERNAME/TOOLS_BY_SP/releases) section of this repository, or follow these steps:
+To use this library in your Java project, you can download the compiled `.jar` file from the [lib](https://github.com/SamuelPestan/toolsBySp/lib) section of this repository, or follow these steps:
 
 1. Download the `.jar` file from the latest release.
 2. Place the `.jar` file in a folder within your Java project or anywhere accessible to your project.
