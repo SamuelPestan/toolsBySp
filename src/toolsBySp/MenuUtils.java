@@ -31,8 +31,6 @@ public class MenuUtils {
         while (choice < 1 || choice > options.length) {
             try {
                 choice = sc.nextInt();
-                if (choice < 1 || choice > options.length) {
-                }
             } catch (Exception e) {
                 sc.nextLine(); // Clear the buffer
             }
