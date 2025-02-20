@@ -23,7 +23,7 @@ public class MenuUtils {
         
         // Display all options
         for (int i = 0; i < options.length; i++) {
-            System.out.println((i + 1) + ". " + options[i]);
+            System.out.println((i + 1) + ".- " + options[i]);
         }
         
         // Get the user's choice
@@ -55,7 +55,7 @@ public class MenuUtils {
         
         // Display all options
         for (int i = 0; i < options.length; i++) {
-            System.out.println((i + 1) + ". " + options[i]);
+            System.out.println((i + 1) + ".- " + options[i]);
         }
         
         // Get the user's choice
