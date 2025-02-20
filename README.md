@@ -12,14 +12,14 @@ ToolsBySp is a Java utility library designed to make common tasks easier for dev
 
 ## 📥 Installation
 
-To use this library in your Java project, you can download the compiled `.jar` file from the [lib](https://github.com/SamuelPestan/toolsBySp/blob/master/lib) section of this repository.
+To use this library in your Java project, you can download the compiled `.jar` file from the [release](https://github.com/SamuelPestan/toolsBySp/blob/master/release) section of this repository.
 
 You can choose the version of the `.jar` depending on the Java version you are using:
 
-- ☕ For Java 8: [toolsBySp-8.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/lib/toolsBySp-8.jar)
-- ☕ For Java 11: [toolsBySp-11.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/lib/toolsBySp-11.jar)
-- ☕ For Java 17: [toolsBySp-17.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/lib/toolsBySp-17.jar)
-- ☕ For Java 21: [toolsBySp-21.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/lib/toolsBySp-21.jar)
+- ☕ For Java 8: [toolsBySp-8.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/release/toolsBySp-8.jar)
+- ☕ For Java 11: [toolsBySp-11.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/release/toolsBySp-11.jar)
+- ☕ For Java 17: [toolsBySp-17.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/release/toolsBySp-17.jar)
+- ☕ For Java 21: [toolsBySp-21.jar](https://github.com/SamuelPestan/toolsBySp/blob/master/release/toolsBySp-21.jar)
 
 Simply download the appropriate `.jar` file for your Java version and add it to your project's classpath.
 
